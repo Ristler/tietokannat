@@ -24,4 +24,5 @@ Vastaus: iso_country
 ### Kysymys 8
 Vastaus: varchar
 
+# Viikko 2
 
