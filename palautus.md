@@ -1,7 +1,7 @@
 # Viikko 1
 
 ### Kysymys 1
-Vastaus: 5
+Vastaus: <b>
 
 ### Kysymys 2
 Vastaus: 5
