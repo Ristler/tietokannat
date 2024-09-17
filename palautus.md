@@ -26,3 +26,7 @@ Vastaus: varchar
 
 # Viikko 2
 
+###Kysymys 1
+select * from goal
+![screenshot](viikko2-1.png)
+
