@@ -34,6 +34,7 @@ select * from goal
 
 ### Kysymys 2
 kesken
+![screenshot](viikko2-2.png)
 
 ### Kysymys 3
 select name from airport where iso_country ="FI" order by name ASC;
@@ -114,6 +115,23 @@ game where game.location = airport.ident and airport.iso_country = country.iso_c
 and screen_name = "Ilkka"
 
 ![screenshot](viikko2.2-7.png)
+
+### Kysymys 8
+kesken
+
+![screenshot](viikko2.2-8.png)
+
+### Kysymys 9
+kesken
+
+![screenshot](viikko2.2-9.png)
+
+### Kysymys 10
+kesken
+
+![screenshot](viikko2.2-10.png)
+
+
 
 
 
